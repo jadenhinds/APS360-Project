@@ -1,0 +1,2 @@
+dataset_mode,num_2d_nodes,num_2d_edges,num_1d_nodes,num_1d_edges,num_1d2d_connections,num_events,total_rollout_timesteps,timestep_interval,previous_timesteps,normalized
+train,3716,7935,17,16,16,68,15571,300,1,False
